@@ -1,0 +1,3 @@
+﻿  b161200301.cpp
+c:\users\bizim_pc\desktop\ödev\veri yapıları\1\b161200301\b161200301\bagliliste.h(69): warning C4715: 'bagliListe<char>::DegerAra': tüm denetim yolları değer döndürmez
+  b161200301.vcxproj -> C:\Users\bizim_pc\Desktop\ödev\veri yapıları\1\b161200301\Debug\b161200301.exe
